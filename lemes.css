@@ -1,0 +1,15 @@
+body {
+    color:navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texte1 {
+    color: red;
+    text-align:center;
+}
+
+.texte2 {
+    color: rgb(202, 171, 31);
+    text-align: center;
+}
+
